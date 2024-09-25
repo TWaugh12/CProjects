@@ -1,2 +1,2 @@
 # CProjects
-Projects I have completed in C
+Projects from 2022 CS 354
